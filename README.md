@@ -13,3 +13,6 @@ Main, com uma entrada default `src/com/ExercicioAndreFreireFindCharacter/main.ja
 
 ## Testes
 `src/com/ExercicioAndreFreireFindCharacterTest`
+<br />
+Att. <br />
+Fico a disposição para possíveis dúvidas.
